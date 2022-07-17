@@ -1,0 +1,24 @@
+{
+  "name": "react-ts",
+  "version": "1.0.0",
+  "description": "react typescript boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arbi-grine/react-ts.git"
+  },
+  "keywords": [
+    "react",
+    "typescript",
+    "boilerplate"
+  ],
+  "author": "Grine Arbi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arbi-grine/react-ts/issues"
+  },
+  "homepage": "https://github.com/arbi-grine/react-ts#readme"
+}
